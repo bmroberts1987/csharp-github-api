@@ -21,9 +21,9 @@ Just add your Github username and password. The file is in .gitignore, so you ca
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
   <appSettings>
-    <add key="username" value="example"/>
-    <add key="password" value="password"/>
-    <add key="token" value="abcedfg"/>
+    <add key="username" value="bmroberts-1987"/>
+    <add key="password" value="brandonroberts87"/>
+    <add key="token" value="76a2a999588452a1cb8a9a20c33e3132bfd16e62"/>
   </appSettings>
 </configuration>
 ```
